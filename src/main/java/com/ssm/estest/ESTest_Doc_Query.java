@@ -14,7 +14,7 @@ import org.elasticsearch.search.builder.SearchSourceBuilder;
 /**
  * @author shaoshao
  * @Date 2022/11/25 19:26
- * @Description: 文档 查询所有数据
+ * @Description: 文档  查询所有数据
  */
 public class ESTest_Doc_Query {
     public static void main(String[] args) throws Exception {
